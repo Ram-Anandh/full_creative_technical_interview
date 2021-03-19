@@ -2,3 +2,6 @@
 
 
 #run start_sequencer.py to run the script
+
+
+# Check in logs folder for the results
